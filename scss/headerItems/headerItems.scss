@@ -1,0 +1,44 @@
+.header {
+	background-color: #dddddd;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 100vh;
+		.header-center {
+			display: block;
+			text-align: center;
+			z-index: 99;
+			font-size: 8vh;
+			font-weight: bold;
+		}
+		.header-top-right {
+			position: absolute;
+			text-align: center;
+			z-index: 99;
+			font-size: 3vh;
+			top: 20px;
+			right: 20px;
+			font-weight: bold;
+		}	
+		.header-menu {
+			position: absolute;
+			bottom: 20px;
+			left: 20px;
+			z-index: 2;
+			// position: fixed;
+			a {
+				color: #0d78f0;
+				text-decoration: none;
+				margin-right: 10px;
+				&:hover, 
+				&:active,
+				&:focus {
+					color: black;
+				}
+			}
+		}
+		.fixed {
+		position: fixed;
+		top: 25px;
+}	
+}

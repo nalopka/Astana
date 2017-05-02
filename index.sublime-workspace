@@ -1,0 +1,238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backgc",
+				"background-color"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"n",
+				"nav-link"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/admin/Dropbox/Astana proj/css/mapbox/mapbox.css",
+		"/Users/admin/Dropbox/Astana proj/index.html",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/public/js/js.js",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/scss/test.scss",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/Jade/header/header.jade",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/Jade/main.jade",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/Jade/head.jade",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/public/css/test.css",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/public/main.html",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/js/js.js",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/Jade/main.html",
+		"/Users/admin/Dropbox/BS temp/index.html",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/Jade/body/body.jade",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/Jade/test1/jade.jade",
+		"/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/myproj/main.html",
+		"/Users/admin/Downloads/Folio Export/dev/sass/app.sass",
+		"/Users/admin/Downloads/Folio Export/public/gardencity.html",
+		"/Users/admin/Dropbox/BS temp/style.css.map",
+		"/Users/admin/Dropbox/test/jade.jade",
+		"/Users/admin/Dropbox/test/jade.html",
+		"/Users/admin/Dropbox/test/jade.jd",
+		"/Users/admin/Dropbox/BS temp/style.scss",
+		"/Users/admin/Dropbox/site1/style.css",
+		"/Users/admin/Dropbox/site1/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"; ",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

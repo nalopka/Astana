@@ -1,0 +1,36 @@
+@font-face {
+	font-family: "lato";
+	src: url("../fonts/lato/Lato-Regular.ttf");
+}
+div, p, body, button, h2, img, hr, li, ul {
+	margin: 0;
+	padding: 0;
+	font-family: 'lato', sans-serif;
+}
+.active {
+	color: black !important;
+} 
+
+
+
+body {
+	// position: relative;
+}
+h2 { 
+	font-size: 5vh; }
+p, li  { 
+	font-size: 3vh; }
+p {
+	cursor: default;
+	line-height: 30px;
+	letter-spacing: 1px;
+}
+$hrefcolor: #0d78f0;
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import "leaflet/leaflet"; /* map */
+@import "headerItems/headerItems"; /* header p menu */
+@import "bodyItems/benefits/benefits";
+@import "bodyItems/services/services";
+@import "bodyItems/price/price";
+@import "footerItems/footer/footer";
+

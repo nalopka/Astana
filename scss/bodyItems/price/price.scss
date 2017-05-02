@@ -1,0 +1,19 @@
+.price {
+	background-color: #ffffff;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	.bold {
+		padding: 60px 0;
+		font-size: 110px;
+		font-weight: bold;
+	}
+}
+@media screen and (max-width: 500px) {
+	.price {
+		flex-wrap: wrap;
+		text-align: center;
+		height: 800px;
+	}
+}
